@@ -2,3 +2,4 @@ hello git
 this is vi test
 third - my branch
 four - my branch
+some hot fix
